@@ -10,7 +10,7 @@ android {
 		targetSdkVersion compileAndTargetSdkVersion
 		versionCode 1
 		versionName "1.0"
-		resConfigs('en', 'xxxhdpi')
+		resConfigs('uk', 'xxxhdpi')
 		ndk {
 			abiFilters "x86", "x86_64", "arm64-v8a", "armeabi-v7a"
 		}
